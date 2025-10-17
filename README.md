@@ -64,8 +64,8 @@ Building internal tooling, license management and secure deployment flows for th
   <table>
     <tr>
       <td align="center">
-        <a href="[https://www.modelscope.cn/profile/gongjy](https://github.com/lbzrdev)" style="text-decoration: none;">
-          <img src="[./images/and_modelscope.png](https://cdn.discordapp.com/attachments/1419270453867843676/1428877369141231616/image.png?ex=68f41940&is=68f2c7c0&hm=a015e6d4daa4d13d487e06b11eb1041f3672a44c49a94664e2e0925ce57c0c35&)" alt="ModelScope Logo" style="vertical-align: middle; width: auto; max-width: 70%;" />
+        <a href="https://github.com/lbzrdev" style="text-decoration: none;">
+          <img src="https://cdn.discordapp.com/attachments/1419270453867843676/1428877369141231616/image.png?ex=68f41940&is=68f2c7c0&hm=a015e6d4daa4d13d487e06b11eb1041f3672a44c49a94664e2e0925ce57c0c35&" alt="IMG" style="vertical-align: middle; width: auto; max-width: 70%;" />
         </a>
       </td>
     </tr>
