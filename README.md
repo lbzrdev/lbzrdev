@@ -3,7 +3,7 @@
 ## 🌐 Socials:
 
 [![Website](https://img.shields.io/badge/🌐-Website-8b5cf6?style=for-the-badge)](https://github.com/lbzrdev)
-[![Actual Project](https://img.shields.io/badge/🌐-BlackNova-23036b?style=for-the-badge)](https://dev.blacknova.cc)
+[![Actual Project](https://img.shields.io/badge/🌐-Actual Project-23036b?style=for-the-badge)](https://dev.blacknova.cc)
 [![Discord](https://img.shields.io/badge/💬-Discord-5865F2?style=for-the-badge)](https://discord.com/users/321709944019615755)
 
 
