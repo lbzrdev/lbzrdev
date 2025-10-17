@@ -1,8 +1,9 @@
 # 💫 About Me:
 
 ## 🌐 Socials:
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/avidevs) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AviDevs) 
+[![Website](https://img.shields.io/badge/🌐-Website-8b5cf6?style=for-the-badge)]([https://1vcb.netlify.app/](https://github.com/lbzrdev))
+[![Current Project](https://img.shields.io/badge/🌐-BlackNova-23036b?style=for-the-badge)](https://dev.blacknova.cc)
+[![Discord](https://img.shields.io/badge/💬-Discord-5865F2?style=for-the-badge)](https://discord.com/users/321709944019615755)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
