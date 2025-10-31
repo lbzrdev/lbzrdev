@@ -32,7 +32,7 @@ Security-focused software engineer building secure backends, tooling and automat
 ---
 
 ## Current Project
-**Director Dev @ BlackNova** — active on `dev.blacknova.cc`  
+**CTO & Director Dev @ BlackNova** — active on `dev.blacknova.cc`  
 Building internal tooling, license management and secure deployment flows for the BlackNova ecosystem.
 
 [Visit project → dev.blacknova.cc](https://dev.blacknova.cc)
